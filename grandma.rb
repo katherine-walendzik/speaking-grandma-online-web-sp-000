@@ -4,7 +4,8 @@ def peak_to_grandma(phrase)
   elsif phrase.upcase
     puts "NO, NOT SINCE 1938!"
   else
-    puts ""
+    puts "I LOVE YOU TOO PUMPKIN!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
