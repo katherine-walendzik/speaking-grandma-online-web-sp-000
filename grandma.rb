@@ -1,4 +1,4 @@
-# Write a speak_to_grandma method.
+def peak_to_grandma 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
