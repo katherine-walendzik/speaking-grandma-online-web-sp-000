@@ -1,4 +1,7 @@
-def peak_to_grandma 
+def peak_to_grandma(phrase)
+  if !phrase.upcase
+    puts 
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
